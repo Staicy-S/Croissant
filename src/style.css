@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(209, 167, 88);
+  text-align: center;
+  margin: 20px auto;
+}
+
+a {
+  color: rgb(128, 0, 0);
+  text-decoration: none;
+}
+
+a:hover {
+  color: black;
+}
